@@ -25,12 +25,12 @@ main{  width: 800px;
 
 aside{  width: 100px;
     height: 400px;
-    background-color: orange;}
+    background-color: lightgreen;}
 
 footer{
   height: 200px;
   width: 1000px;
-  background-color: red;
+  background-color: lightblue;
 
 }
 
