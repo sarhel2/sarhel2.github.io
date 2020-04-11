@@ -14,11 +14,7 @@ header{
   background-color: pink;
 }
 
-nav{
-  width: 1000px;
-  height: 80px;
-  background-color: lightgreen;
-}
+
 
 #center{
   display:flex;
