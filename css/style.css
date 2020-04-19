@@ -11,12 +11,9 @@ margin-right: auto;
 header{
   width: 1000px;
   height: 120px;
-<<<<<<< HEAD
- background-color: pink
-=======
-background-image: image("Hörn.png");
-  background-repeat: no-repeat;
->>>>>>> f877bcc3a72f225b227aca66b97c326275442885
+  background-color: pink;
+
+}
 
 
 
