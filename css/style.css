@@ -11,7 +11,8 @@ margin-right: auto;
 header{
   width: 1000px;
   height: 120px;
-
+background-image: image("Hörn.png");
+  background-repeat: no-repeat;
 
 
 
