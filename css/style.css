@@ -11,8 +11,10 @@ margin-right: auto;
 header{
   width: 1000px;
   height: 120px;
-  background-color: pink;
-  background-image: url('Hörn.png');
+  background-image: url(Hörn.png);
+  background-position: right top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
 }
 
 
