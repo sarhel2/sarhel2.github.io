@@ -13,8 +13,7 @@ header{
   height: 120px;
   background-image: linear-gradient(#ff3377, pink);
   padding-top: 50px;
-padding-right: 30px;
-padding-left: 30px;
+
 /*  background-color: pink;*/
   font-size: 40px;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -43,7 +42,7 @@ main{  width: 100%;
 
 
 aside{ font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-   width: 100px;
+   width: 180px;
     height: 400px;
     background-color: pink ;}
 
@@ -54,7 +53,18 @@ footer{
   background-color: pink
 
 }
-
+.button {background-color:#ff8095;
+border:#ff1a66;
+color: white;
+width: 82px;
+padding: 8px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 14px;
+margin: 4px 2px;
+cursor: pointer;
+}
 
 /*---------länkar-------- */
 
